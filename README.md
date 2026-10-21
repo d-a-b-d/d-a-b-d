@@ -1,5 +1,5 @@
 
-- Interested in all things data engineering, science, XAI, and Interpretability. I like to tinker around sometimes. 
+Interested in all things data engineering, science, XAI, and interpretability.
 
 ---
 
